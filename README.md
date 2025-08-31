@@ -206,5 +206,5 @@ This project is open source and free to use.
 
 ---
 
-**Author:** Anupriya
+**Author:** Ayush Rai
 **Assignment:** Full-Stack Note-Taking Application
